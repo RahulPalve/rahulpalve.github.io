@@ -1,6 +1,6 @@
 
 body {
-  font-family: Arial;
+  font-family: 'Raleway', sans-serif;
   padding: 2em;
   margin: 0;
   border-top: 5px solid #c63e57;
@@ -42,7 +42,8 @@ img{
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #ccc;
+  background-color: #fff;
+  border: 2px solid #c63e57;
 }
 
 /* Style the tab content */
